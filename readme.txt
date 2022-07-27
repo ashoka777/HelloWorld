@@ -1,2 +1,2 @@
-<h1>Jenkins Hello World Project</h1>
-<h2>This project using the jenkins </h2>
+Jenkins Hello World Project
+This project using the jenkins jobs. when any changes in the git the job trigger will fire and it build the job.
